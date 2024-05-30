@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#RegisterButton {
+    border: 1px solid #54443c;
+    background-color: #54443c;
+    color: #f6f0e9;
+}
+
+#RegisterButton:hover {
+    background-color: #f6f0e9;
+    color: #54443c;
+}
