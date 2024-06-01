@@ -1,0 +1,52 @@
+.navbar-logo {
+    position: absolute;
+    margin-left: 9rem;
+    z-index: 2000;
+    margin-top: -5rem
+}
+.ms-8{
+    margin-left: 20rem;
+}
+.navbar-brand-text{
+    margin-left: 20rem;
+    color: #54443c;
+}
+
+.bg-silversoft{
+    background-color: #f6f0e9;
+}
+
+.navbar .login-button {
+    border: 1px solid #54443c;
+    background-color: #54443c;
+    color: #f6f0e9;
+}
+
+.navbar .login-button:hover {
+    background-color: #f6f0e9;
+    border: 1px solid #54443c;
+    color: #54443c;
+}
+.navbar .register-button {
+    border: 1px solid #f6f0e9;
+    background-color: #f6f0e9;
+    color: #54443c;
+}
+
+.navbar .register-button:hover {
+    background-color: #54443c;
+    border: 1px solid #f6f0e9;
+    color: #f6f0e9;
+}
+
+.navbar-nav .nav-item:hover{
+    text-decoration: underline ;
+}
+.mb-6{
+    margin-bottom: 6rem;
+}
+
+.container-fluid .d-flex span{
+    border: 2px solid #54443c;
+    padding: 4px;
+}

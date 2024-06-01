@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col-4 ul li{
+    font-size: 150%;
+}
+.col-4 ul li:hover{
+    font-size: 200%;
+}
+
+.title{
+    color: #54443c;
+}
+.list-group-item{
+    border-color: black;
+}
+
+.container .banners img{
+    width:200px;
+    height: 300px
+}
+.container .banners img:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px 5px #54443c;
+}

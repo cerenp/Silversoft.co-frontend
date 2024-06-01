@@ -1,21 +1,23 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
-h1{
-    color: #e5e5e5;
-    font-size: 300%;
-    margin-left: 200px;
 }
-#logo{
+.carousel-inner h5 , .carousel-inner p{
+    color: black;
 }
 
-.Nav{
-    width: 100%;
+.carousel-caption h5, .carousel-caption p{
+    color: white;
+    font-weight: bold;
+}
+
+body h2{
+    color: #54443c;
+}
+
+.carousel-caption{
     background-color: #54443c;
-    display: inline-block;
-    padding-top: 20px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-
+    color: #f6f0e9;
 }
